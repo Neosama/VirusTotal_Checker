@@ -8,6 +8,6 @@ Contains:
 - With Log System
 
 Screenshot:
-![ScreenShot](https://raw.githubusercontent.com/Neosama/RMS---Real-Time/master/img.PNG)
+![ScreenShot](https://raw.githubusercontent.com/Neosama/VirusTotal_Checker/master/img.PNG)
 
 This project is licensed under the GNU General Public License v3.0

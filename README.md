@@ -5,7 +5,7 @@ Contains:
 - Configuring the key and hashes to monitor by file.
 - Using the VirusTotal API v2 via a public key.
 - Using Windows libraries.
-- With Log System
+- With Log System.
 
 Screenshot:
 ![ScreenShot](https://raw.githubusercontent.com/Neosama/VirusTotal_Checker/master/img.PNG)
